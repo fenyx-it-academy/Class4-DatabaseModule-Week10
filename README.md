@@ -6,6 +6,7 @@ You are working in a IT company where multiple small teams deliver one product. 
 Your task is to design and create a database where you can handle (store and retrieve) all these information.
 
 Your tasks:
+
 -Choose your entities, write down their attributes.
 
 -Create tables for these entities according to normalization rules.
